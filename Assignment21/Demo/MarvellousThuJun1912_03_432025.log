@@ -1,0 +1,624 @@
+--------------------------------------------------------------------------------
+		Marvellous Infosystems Process Log
+		Log file is created at : Thu Jun 19 12:03:43 2025
+--------------------------------------------------------------------------------{'pid': 0, 'name': 'System Idle Process', 'username': 'NT AUTHORITY\\SYSTEM', 'vms': 0.05859375} 
+
+{'pid': 4, 'name': 'System', 'username': 'NT AUTHORITY\\SYSTEM', 'vms': 0.0390625} 
+
+{'pid': 236, 'name': '', 'username': None, 'vms': 0.16796875} 
+
+{'pid': 280, 'name': 'Registry', 'username': None, 'vms': 14.16796875} 
+
+{'pid': 716, 'name': 'svchost.exe', 'username': None, 'vms': 4.08203125} 
+
+{'pid': 744, 'name': 'smss.exe', 'username': None, 'vms': 1.14453125} 
+
+{'pid': 1060, 'name': 'csrss.exe', 'username': None, 'vms': 2.62109375} 
+
+{'pid': 1064, 'name': 'svchost.exe', 'username': None, 'vms': 3.56640625} 
+
+{'pid': 1152, 'name': 'wininit.exe', 'username': None, 'vms': 1.72265625} 
+
+{'pid': 1228, 'name': 'conhost.exe', 'username': None, 'vms': 1.6484375} 
+
+{'pid': 1232, 'name': 'Widgets.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 12.32421875} 
+
+{'pid': 1292, 'name': 'PowerToys.PowerOCR.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 224.7421875} 
+
+{'pid': 1296, 'name': 'services.exe', 'username': None, 'vms': 7.1640625} 
+
+{'pid': 1312, 'name': 'LsaIso.exe', 'username': None, 'vms': 1.79296875} 
+
+{'pid': 1328, 'name': 'lsass.exe', 'username': None, 'vms': 14.66796875} 
+
+{'pid': 1468, 'name': 'svchost.exe', 'username': None, 'vms': 18.8984375} 
+
+{'pid': 1488, 'name': 'fontdrvhost.exe', 'username': None, 'vms': 1.93359375} 
+
+{'pid': 1508, 'name': 'Code.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 218.38671875} 
+
+{'pid': 1572, 'name': 'WUDFHost.exe', 'username': None, 'vms': 18.59765625} 
+
+{'pid': 1640, 'name': 'svchost.exe', 'username': None, 'vms': 11.65625} 
+
+{'pid': 1696, 'name': 'svchost.exe', 'username': None, 'vms': 3.6171875} 
+
+{'pid': 1812, 'name': 'WUDFHost.exe', 'username': None, 'vms': 7.15234375} 
+
+{'pid': 1912, 'name': 'svchost.exe', 'username': None, 'vms': 2.671875} 
+
+{'pid': 1916, 'name': 'svchost.exe', 'username': None, 'vms': 1.41015625} 
+
+{'pid': 1932, 'name': 'RtkAudUService64.exe', 'username': None, 'vms': 2.390625} 
+
+{'pid': 1968, 'name': 'svchost.exe', 'username': None, 'vms': 10.23828125} 
+
+{'pid': 1976, 'name': 'svchost.exe', 'username': None, 'vms': 2.37109375} 
+
+{'pid': 2096, 'name': 'conhost.exe', 'username': None, 'vms': 1.6484375} 
+
+{'pid': 2100, 'name': 'svchost.exe', 'username': None, 'vms': 3.34375} 
+
+{'pid': 2136, 'name': 'svchost.exe', 'username': None, 'vms': 4.8359375} 
+
+{'pid': 2144, 'name': 'svchost.exe', 'username': None, 'vms': 1.93359375} 
+
+{'pid': 2156, 'name': 'Dell.D3.WinSvc.exe', 'username': None, 'vms': 124.96875} 
+
+{'pid': 2216, 'name': 'svchost.exe', 'username': None, 'vms': 1.94140625} 
+
+{'pid': 2276, 'name': 'svchost.exe', 'username': None, 'vms': 6.91015625} 
+
+{'pid': 2296, 'name': 'svchost.exe', 'username': None, 'vms': 2.98046875} 
+
+{'pid': 2328, 'name': 'svchost.exe', 'username': None, 'vms': 7.83984375} 
+
+{'pid': 2336, 'name': 'svchost.exe', 'username': None, 'vms': 2.5} 
+
+{'pid': 2344, 'name': 'WUDFHost.exe', 'username': None, 'vms': 6.515625} 
+
+{'pid': 2352, 'name': 'svchost.exe', 'username': None, 'vms': 2.65625} 
+
+{'pid': 2436, 'name': 'IntelCpHDCPSvc.exe', 'username': None, 'vms': 1.5390625} 
+
+{'pid': 2484, 'name': 'DellSupportAssistRemedationService.exe', 'username': None, 'vms': 95.09375} 
+
+{'pid': 2532, 'name': 'svchost.exe', 'username': None, 'vms': 3.296875} 
+
+{'pid': 2620, 'name': 'svchost.exe', 'username': None, 'vms': 2.04296875} 
+
+{'pid': 2652, 'name': 'svchost.exe', 'username': None, 'vms': 4.01171875} 
+
+{'pid': 2668, 'name': 'svchost.exe', 'username': None, 'vms': 1.9375} 
+
+{'pid': 2688, 'name': 'WmiApSrv.exe', 'username': None, 'vms': 2.6953125} 
+
+{'pid': 2764, 'name': 'svchost.exe', 'username': None, 'vms': 2.54296875} 
+
+{'pid': 2792, 'name': 'svchost.exe', 'username': None, 'vms': 3.14453125} 
+
+{'pid': 2828, 'name': 'DDVRulesProcessor.exe', 'username': None, 'vms': 19.7421875} 
+
+{'pid': 3044, 'name': 'fontdrvhost.exe', 'username': None, 'vms': 2.68359375} 
+
+{'pid': 3120, 'name': 'svchost.exe', 'username': None, 'vms': 3.30859375} 
+
+{'pid': 3372, 'name': 'svchost.exe', 'username': None, 'vms': 3.953125} 
+
+{'pid': 3436, 'name': 'svchost.exe', 'username': None, 'vms': 18.27734375} 
+
+{'pid': 3452, 'name': 'svchost.exe', 'username': None, 'vms': 3.26171875} 
+
+{'pid': 3484, 'name': 'RstMwService.exe', 'username': None, 'vms': 2.484375} 
+
+{'pid': 3488, 'name': 'svchost.exe', 'username': None, 'vms': 2.57421875} 
+
+{'pid': 3496, 'name': 'svchost.exe', 'username': None, 'vms': 3.734375} 
+
+{'pid': 3500, 'name': 'svchost.exe', 'username': None, 'vms': 1.52734375} 
+
+{'pid': 3544, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 31.0078125} 
+
+{'pid': 3580, 'name': 'svchost.exe', 'username': None, 'vms': 2.2265625} 
+
+{'pid': 3600, 'name': 'MemCompression', 'username': None, 'vms': 3.328125} 
+
+{'pid': 3672, 'name': 'svchost.exe', 'username': None, 'vms': 2.125} 
+
+{'pid': 3712, 'name': 'WavesSysSvc64.exe', 'username': None, 'vms': 76.55859375} 
+
+{'pid': 3716, 'name': 'svchost.exe', 'username': None, 'vms': 2.48828125} 
+
+{'pid': 3724, 'name': 'svchost.exe', 'username': None, 'vms': 2.20703125} 
+
+{'pid': 3764, 'name': 'FNPLicensingService64.exe', 'username': None, 'vms': 2.73828125} 
+
+{'pid': 3800, 'name': 'svchost.exe', 'username': None, 'vms': 1.74609375} 
+
+{'pid': 3824, 'name': 'svchost.exe', 'username': None, 'vms': 15.99609375} 
+
+{'pid': 3876, 'name': 'svchost.exe', 'username': None, 'vms': 5.1953125} 
+
+{'pid': 3956, 'name': 'svchost.exe', 'username': None, 'vms': 1.7421875} 
+
+{'pid': 4204, 'name': 'svchost.exe', 'username': None, 'vms': 7.7578125} 
+
+{'pid': 4252, 'name': 'svchost.exe', 'username': None, 'vms': 3.59765625} 
+
+{'pid': 4268, 'name': 'svchost.exe', 'username': None, 'vms': 31.3515625} 
+
+{'pid': 4396, 'name': 'spoolsv.exe', 'username': None, 'vms': 6.6953125} 
+
+{'pid': 4436, 'name': 'svchost.exe', 'username': None, 'vms': 13.88671875} 
+
+{'pid': 4552, 'name': 'svchost.exe', 'username': None, 'vms': 9.29296875} 
+
+{'pid': 4684, 'name': 'svchost.exe', 'username': None, 'vms': 2.7578125} 
+
+{'pid': 4716, 'name': 'svchost.exe', 'username': None, 'vms': 2.19921875} 
+
+{'pid': 4796, 'name': 'NgcIso.exe', 'username': None, 'vms': 1.015625} 
+
+{'pid': 4908, 'name': 'svchost.exe', 'username': None, 'vms': 37.03515625} 
+
+{'pid': 4916, 'name': 'Dell.TechHub.exe', 'username': None, 'vms': 39.2734375} 
+
+{'pid': 4924, 'name': 'DellPairService.exe', 'username': None, 'vms': 6.89453125} 
+
+{'pid': 4932, 'name': 'svchost.exe', 'username': None, 'vms': 8.33984375} 
+
+{'pid': 4940, 'name': 'ipf_uf.exe', 'username': None, 'vms': 2.1640625} 
+
+{'pid': 4972, 'name': 'svchost.exe', 'username': None, 'vms': 29.58984375} 
+
+{'pid': 4980, 'name': 'IntelAudioService.exe', 'username': None, 'vms': 39.453125} 
+
+{'pid': 4988, 'name': 'jhi_service.exe', 'username': None, 'vms': 1.4140625} 
+
+{'pid': 4996, 'name': 'WavesAudioService.exe', 'username': None, 'vms': 13.359375} 
+
+{'pid': 5004, 'name': 'OneApp.IGCC.WinService.exe', 'username': None, 'vms': 33.8515625} 
+
+{'pid': 5012, 'name': 'WMIRegistrationService.exe', 'username': None, 'vms': 3.0390625} 
+
+{'pid': 5032, 'name': 'svchost.exe', 'username': None, 'vms': 3.171875} 
+
+{'pid': 5044, 'name': 'mc-fw-host.exe', 'username': None, 'vms': 243.69140625} 
+
+{'pid': 5052, 'name': 'sqlwriter.exe', 'username': None, 'vms': 8.01171875} 
+
+{'pid': 5060, 'name': 'IntelAnalyticsService.exe', 'username': None, 'vms': 8.9921875} 
+
+{'pid': 5068, 'name': 'svchost.exe', 'username': None, 'vms': 1.609375} 
+
+{'pid': 5076, 'name': 'svchost.exe', 'username': None, 'vms': 13.6953125} 
+
+{'pid': 5084, 'name': 'svchost.exe', 'username': None, 'vms': 5.0546875} 
+
+{'pid': 5108, 'name': 'RtkAudUService64.exe', 'username': None, 'vms': 5.4609375} 
+
+{'pid': 5116, 'name': 'ipfsvc.exe', 'username': None, 'vms': 1.80078125} 
+
+{'pid': 5152, 'name': 'mysqld.exe', 'username': None, 'vms': 33.1484375} 
+
+{'pid': 5164, 'name': 'svchost.exe', 'username': None, 'vms': 1.921875} 
+
+{'pid': 5236, 'name': 'svchost.exe', 'username': None, 'vms': 1.765625} 
+
+{'pid': 5308, 'name': 'IntelConnect.exe', 'username': None, 'vms': 39.71875} 
+
+{'pid': 5380, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.33984375} 
+
+{'pid': 5484, 'name': 'MoUsoCoreWorker.exe', 'username': None, 'vms': 6.5390625} 
+
+{'pid': 5716, 'name': 'svchost.exe', 'username': None, 'vms': 2.515625} 
+
+{'pid': 5972, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 114.5625} 
+
+{'pid': 5984, 'name': 'Code.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 87.2578125} 
+
+{'pid': 6160, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 33.8671875} 
+
+{'pid': 6184, 'name': 'mysqld.exe', 'username': None, 'vms': 586.54296875} 
+
+{'pid': 6192, 'name': 'sqlservr.exe', 'username': None, 'vms': 505.90625} 
+
+{'pid': 6284, 'name': 'conhost.exe', 'username': None, 'vms': 1.5703125} 
+
+{'pid': 6384, 'name': 'Copilot.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 69.66796875} 
+
+{'pid': 6404, 'name': 'wlanext.exe', 'username': None, 'vms': 1.75390625} 
+
+{'pid': 6868, 'name': 'svchost.exe', 'username': None, 'vms': 1.65625} 
+
+{'pid': 6920, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 21.76953125} 
+
+{'pid': 7020, 'name': 'msedge.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.28125} 
+
+{'pid': 7156, 'name': 'conhost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.3984375} 
+
+{'pid': 7160, 'name': 'cmd.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.17578125} 
+
+{'pid': 7180, 'name': 'IntelConnectService.exe', 'username': None, 'vms': 14.15625} 
+
+{'pid': 7184, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 12.1796875} 
+
+{'pid': 7284, 'name': 'Code.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 102.42578125} 
+
+{'pid': 7480, 'name': 'svchost.exe', 'username': None, 'vms': 2.8203125} 
+
+{'pid': 7512, 'name': 'Code.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 141.21875} 
+
+{'pid': 7592, 'name': 'svchost.exe', 'username': None, 'vms': 1.96875} 
+
+{'pid': 7640, 'name': 'cmd.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.88671875} 
+
+{'pid': 7704, 'name': 'WUDFHost.exe', 'username': None, 'vms': 5.5078125} 
+
+{'pid': 7712, 'name': 'conhost.exe', 'username': None, 'vms': 1.65625} 
+
+{'pid': 8160, 'name': 'svchost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.12109375} 
+
+{'pid': 8444, 'name': 'Code.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 10.55859375} 
+
+{'pid': 9008, 'name': 'SDXHelper.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 14.23046875} 
+
+{'pid': 9068, 'name': 'DellOptimizer.exe', 'username': None, 'vms': 133.08203125} 
+
+{'pid': 9092, 'name': 'Dell.TechHub.DataManager.SubAgent.exe', 'username': None, 'vms': 74.14453125} 
+
+{'pid': 9108, 'name': 'Dell.TechHub.Instrumentation.SubAgent.exe', 'username': None, 'vms': 242.44140625} 
+
+{'pid': 9132, 'name': 'conhost.exe', 'username': None, 'vms': 1.63671875} 
+
+{'pid': 9148, 'name': 'Dell.TechHub.Analytics.SubAgent.exe', 'username': None, 'vms': 56.53125} 
+
+{'pid': 9160, 'name': 'conhost.exe', 'username': None, 'vms': 1.6484375} 
+
+{'pid': 9180, 'name': 'Dell.Update.SubAgent.exe', 'username': None, 'vms': 64.71875} 
+
+{'pid': 9208, 'name': 'conhost.exe', 'username': None, 'vms': 1.640625} 
+
+{'pid': 9304, 'name': 'Dell.UCA.Manager.exe', 'username': None, 'vms': 54.94140625} 
+
+{'pid': 9332, 'name': 'Dell.CoreServices.Client.exe', 'username': None, 'vms': 89.15625} 
+
+{'pid': 9356, 'name': 'conhost.exe', 'username': None, 'vms': 1.640625} 
+
+{'pid': 9372, 'name': 'TitanCoreSubAgent.exe', 'username': None, 'vms': 47.55859375} 
+
+{'pid': 9400, 'name': 'Dell.Optimizer.DthProxy.exe', 'username': None, 'vms': 45.2734375} 
+
+{'pid': 9408, 'name': 'conhost.exe', 'username': None, 'vms': 1.64453125} 
+
+{'pid': 9432, 'name': 'Dell.TechHub.Diagnostics.SubAgent.exe', 'username': None, 'vms': 118.46875} 
+
+{'pid': 9440, 'name': 'conhost.exe', 'username': None, 'vms': 1.64453125} 
+
+{'pid': 9472, 'name': 'conhost.exe', 'username': None, 'vms': 1.7265625} 
+
+{'pid': 9852, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.29296875} 
+
+{'pid': 9876, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 545.62109375} 
+
+{'pid': 10024, 'name': 'svchost.exe', 'username': None, 'vms': 10.73046875} 
+
+{'pid': 10056, 'name': 'VSSVC.exe', 'username': None, 'vms': 2.41796875} 
+
+{'pid': 10220, 'name': 'svchost.exe', 'username': None, 'vms': 3.5} 
+
+{'pid': 10296, 'name': 'taskhostw.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 9.3984375} 
+
+{'pid': 10304, 'name': 'mc-fw-host.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 10.75} 
+
+{'pid': 10308, 'name': 'svchost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 10.2265625} 
+
+{'pid': 10328, 'name': 'WavesSvc64.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 93.16015625} 
+
+{'pid': 10348, 'name': 'svchost.exe', 'username': None, 'vms': 2.5234375} 
+
+{'pid': 10528, 'name': 'SearchHost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 77.22265625} 
+
+{'pid': 10548, 'name': 'unsecapp.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.234375} 
+
+{'pid': 10576, 'name': 'PowerToys.Peek.UI.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 49.015625} 
+
+{'pid': 10596, 'name': 'WmiPrvSE.exe', 'username': None, 'vms': 38.32421875} 
+
+{'pid': 10612, 'name': 'LockApp.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 47.80859375} 
+
+{'pid': 10628, 'name': 'svchost.exe', 'username': None, 'vms': 2.1171875} 
+
+{'pid': 10744, 'name': 'RuntimeBroker.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 11.30078125} 
+
+{'pid': 10916, 'name': 'taskhostw.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 6.03515625} 
+
+{'pid': 10988, 'name': 'PowerToys.FancyZones.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 57.578125} 
+
+{'pid': 11412, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 85.8046875} 
+
+{'pid': 11736, 'name': 'svchost.exe', 'username': None, 'vms': 1.8984375} 
+
+{'pid': 11740, 'name': 'svchost.exe', 'username': None, 'vms': 15.32421875} 
+
+{'pid': 11888, 'name': 'svchost.exe', 'username': None, 'vms': 3.13671875} 
+
+{'pid': 12356, 'name': 'PowerToys.Awake.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 10.64453125} 
+
+{'pid': 12412, 'name': 'svchost.exe', 'username': None, 'vms': 7.046875} 
+
+{'pid': 12600, 'name': 'svchost.exe', 'username': None, 'vms': 7.01953125} 
+
+{'pid': 12648, 'name': 'AggregatorHost.exe', 'username': None, 'vms': 4.73046875} 
+
+{'pid': 12716, 'name': 'WindowsTerminal.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 69.1640625} 
+
+{'pid': 13052, 'name': 'ipf_helper.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.203125} 
+
+{'pid': 13200, 'name': 'IDBWMService.exe', 'username': None, 'vms': 14.21484375} 
+
+{'pid': 13232, 'name': 'sihost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 7.86328125} 
+
+{'pid': 13520, 'name': 'IDBWM.exe', 'username': None, 'vms': 16.08203125} 
+
+{'pid': 13540, 'name': 'conhost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.33984375} 
+
+{'pid': 13600, 'name': 'unsecapp.exe', 'username': None, 'vms': 2.125} 
+
+{'pid': 13640, 'name': 'svchost.exe', 'username': None, 'vms': 1.9609375} 
+
+{'pid': 13756, 'name': 'svchost.exe', 'username': None, 'vms': 5.40234375} 
+
+{'pid': 13900, 'name': 'svchost.exe', 'username': None, 'vms': 4.859375} 
+
+{'pid': 13944, 'name': 'Code.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 102.8359375} 
+
+{'pid': 14008, 'name': 'smartscreen.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.5703125} 
+
+{'pid': 14292, 'name': 'mc-neo-host.exe', 'username': None, 'vms': 19.0234375} 
+
+{'pid': 14376, 'name': 'PowerToys.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 12.05078125} 
+
+{'pid': 14508, 'name': 'python.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 10.72265625} 
+
+{'pid': 14556, 'name': 'PowerToys.AlwaysOnTop.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 17.91796875} 
+
+{'pid': 15008, 'name': 'SecurityHealthService.exe', 'username': None, 'vms': 7.95703125} 
+
+{'pid': 15104, 'name': 'GoodixSessionService.exe', 'username': None, 'vms': 0.86328125} 
+
+{'pid': 15120, 'name': 'svchost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 8.43359375} 
+
+{'pid': 15476, 'name': 'msedge.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 8.3515625} 
+
+{'pid': 15768, 'name': 'powershell.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 60.52734375} 
+
+{'pid': 16072, 'name': 'DellPair.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 58.21484375} 
+
+{'pid': 16168, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 79.01953125} 
+
+{'pid': 16292, 'name': 'CrossDeviceResume.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 38.32421875} 
+
+{'pid': 16352, 'name': 'svchost.exe', 'username': None, 'vms': 4.44140625} 
+
+{'pid': 16468, 'name': 'WidgetService.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 5.25390625} 
+
+{'pid': 16532, 'name': 'svchost.exe', 'username': None, 'vms': 2.33984375} 
+
+{'pid': 16952, 'name': 'RuntimeBroker.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 4.015625} 
+
+{'pid': 17292, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.2734375} 
+
+{'pid': 17464, 'name': 'PowerToys.ColorPickerUI.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 95.17578125} 
+
+{'pid': 17476, 'name': 'IntelConnectivityNetworkService.exe', 'username': None, 'vms': 134.734375} 
+
+{'pid': 17664, 'name': 'svchost.exe', 'username': None, 'vms': 3.56640625} 
+
+{'pid': 17940, 'name': 'Code.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 13.58984375} 
+
+{'pid': 17980, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 39.45703125} 
+
+{'pid': 18076, 'name': 'conhost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.7109375} 
+
+{'pid': 18144, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 137.23046875} 
+
+{'pid': 18256, 'name': 'msdtc.exe', 'username': None, 'vms': 3.2421875} 
+
+{'pid': 18316, 'name': 'ShellExperienceHost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 46.453125} 
+
+{'pid': 18636, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 35.7109375} 
+
+{'pid': 18748, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 259.5078125} 
+
+{'pid': 18868, 'name': 'winlogon.exe', 'username': None, 'vms': 2.70703125} 
+
+{'pid': 18900, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 200.08203125} 
+
+{'pid': 19124, 'name': 'conhost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.69921875} 
+
+{'pid': 19504, 'name': 'OfficeClickToRun.exe', 'username': None, 'vms': 37.21875} 
+
+{'pid': 19632, 'name': 'svchost.exe', 'username': None, 'vms': 4.06640625} 
+
+{'pid': 19648, 'name': 'PhoneExperienceHost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 81.2265625} 
+
+{'pid': 19944, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 9.78125} 
+
+{'pid': 20112, 'name': 'Code.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 80.8984375} 
+
+{'pid': 20204, 'name': 'audiodg.exe', 'username': None, 'vms': 243.69921875} 
+
+{'pid': 20208, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 83.05859375} 
+
+{'pid': 20264, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 189.296875} 
+
+{'pid': 20464, 'name': 'ShellHost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 36.58203125} 
+
+{'pid': 20536, 'name': 'ApplicationFrameHost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 61.59765625} 
+
+{'pid': 20552, 'name': 'ServiceShell.exe', 'username': None, 'vms': 107.140625} 
+
+{'pid': 20636, 'name': 'svchost.exe', 'username': None, 'vms': 2.3203125} 
+
+{'pid': 21104, 'name': 'svchost.exe', 'username': None, 'vms': 8.921875} 
+
+{'pid': 21348, 'name': 'svchost.exe', 'username': None, 'vms': 7.19921875} 
+
+{'pid': 21496, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 8.6953125} 
+
+{'pid': 21520, 'name': 'Launchpad.exe', 'username': None, 'vms': 85.6875} 
+
+{'pid': 21572, 'name': 'fdlauncher.exe', 'username': None, 'vms': 0.84765625} 
+
+{'pid': 21604, 'name': 'fdhost.exe', 'username': None, 'vms': 14.203125} 
+
+{'pid': 21612, 'name': 'conhost.exe', 'username': None, 'vms': 1.0234375} 
+
+{'pid': 21700, 'name': 'svchost.exe', 'username': None, 'vms': 70.48046875} 
+
+{'pid': 21756, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 150.43359375} 
+
+{'pid': 21988, 'name': 'sqlceip.exe', 'username': None, 'vms': 45.796875} 
+
+{'pid': 22004, 'name': 'svchost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 4.10546875} 
+
+{'pid': 22028, 'name': 'RuntimeBroker.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 13.96875} 
+
+{'pid': 22084, 'name': 'svchost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 3.3203125} 
+
+{'pid': 22104, 'name': 'svchost.exe', 'username': None, 'vms': 3.29296875} 
+
+{'pid': 22140, 'name': 'svchost.exe', 'username': None, 'vms': 1.796875} 
+
+{'pid': 22156, 'name': 'SupportAssistAgent.exe', 'username': None, 'vms': 154.46484375} 
+
+{'pid': 22320, 'name': 'DDVDataCollector.exe', 'username': None, 'vms': 59.1953125} 
+
+{'pid': 22332, 'name': 'msedge.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 65.78515625} 
+
+{'pid': 22432, 'name': 'DDVCollectorSvcApi.exe', 'username': None, 'vms': 2.140625} 
+
+{'pid': 22612, 'name': 'TextInputHost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 50.67578125} 
+
+{'pid': 22712, 'name': 'svchost.exe', 'username': None, 'vms': 1.375} 
+
+{'pid': 22848, 'name': 'svchost.exe', 'username': None, 'vms': 3.6796875} 
+
+{'pid': 22904, 'name': 'SearchProtocolHost.exe', 'username': None, 'vms': 2.6875} 
+
+{'pid': 23188, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 10.38671875} 
+
+{'pid': 23244, 'name': 'svchost.exe', 'username': None, 'vms': 9.73046875} 
+
+{'pid': 23464, 'name': 'CrossDeviceService.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 21.0078125} 
+
+{'pid': 23648, 'name': 'PowerToys.CropAndLock.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 17.5546875} 
+
+{'pid': 23740, 'name': 'RuntimeBroker.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.29296875} 
+
+{'pid': 23844, 'name': 'svchost.exe', 'username': None, 'vms': 2.2421875} 
+
+{'pid': 23996, 'name': 'msedge.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 73.01953125} 
+
+{'pid': 24060, 'name': 'RuntimeBroker.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 15.01171875} 
+
+{'pid': 24648, 'name': 'msedge.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 17.46875} 
+
+{'pid': 24740, 'name': 'svchost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.80078125} 
+
+{'pid': 24748, 'name': 'mc-extn-browserhost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 5.99609375} 
+
+{'pid': 24792, 'name': 'RuntimeBroker.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.37890625} 
+
+{'pid': 25408, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 28.88671875} 
+
+{'pid': 25504, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 13.1171875} 
+
+{'pid': 25536, 'name': 'powershell.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 68.89453125} 
+
+{'pid': 25560, 'name': 'msedgewebview2.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 13.46484375} 
+
+{'pid': 25888, 'name': 'svchost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 3.74609375} 
+
+{'pid': 25948, 'name': 'OpenConsole.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 3.01953125} 
+
+{'pid': 26036, 'name': 'WmiPrvSE.exe', 'username': None, 'vms': 25.13671875} 
+
+{'pid': 26196, 'name': 'Code.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 165.5} 
+
+{'pid': 26296, 'name': 'dwm.exe', 'username': None, 'vms': 257.1328125} 
+
+{'pid': 26640, 'name': 'RuntimeBroker.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.0546875} 
+
+{'pid': 26728, 'name': 'RuntimeBroker.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.90625} 
+
+{'pid': 26836, 'name': 'msedge.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 55.859375} 
+
+{'pid': 26964, 'name': 'svchost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 2.16796875} 
+
+{'pid': 27044, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 23.6015625} 
+
+{'pid': 27280, 'name': 'svchost.exe', 'username': None, 'vms': 2.05078125} 
+
+{'pid': 27492, 'name': 'conhost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.3359375} 
+
+{'pid': 27584, 'name': 'svchost.exe', 'username': None, 'vms': 1.98046875} 
+
+{'pid': 27628, 'name': 'SystemSettings.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 163.67578125} 
+
+{'pid': 27872, 'name': 'UserOOBEBroker.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.7890625} 
+
+{'pid': 28060, 'name': 'servicehost.exe', 'username': None, 'vms': 19.63671875} 
+
+{'pid': 28120, 'name': 'ctfmon.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 25.421875} 
+
+{'pid': 28160, 'name': 'StartMenuExperienceHost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 79.7734375} 
+
+{'pid': 28224, 'name': 'csrss.exe', 'username': None, 'vms': 2.96875} 
+
+{'pid': 28316, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 525.609375} 
+
+{'pid': 28324, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 68.87890625} 
+
+{'pid': 28416, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 11.41796875} 
+
+{'pid': 28452, 'name': 'conhost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.12890625} 
+
+{'pid': 28556, 'name': 'explorer.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 194.41796875} 
+
+{'pid': 28744, 'name': 'PowerToys.PowerLauncher.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 224.69921875} 
+
+{'pid': 28996, 'name': 'RtkAudUService64.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 3.6484375} 
+
+{'pid': 29216, 'name': 'RuntimeBroker.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 9.9609375} 
+
+{'pid': 29256, 'name': 'PowerToys.AdvancedPaste.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 50.33984375} 
+
+{'pid': 29308, 'name': 'Dell.UCA.Systray.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 172.30078125} 
+
+{'pid': 29312, 'name': 'chrome.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 143.640625} 
+
+{'pid': 29416, 'name': 'cmd.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.88671875} 
+
+{'pid': 29532, 'name': 'msedge.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 16.42578125} 
+
+{'pid': 30012, 'name': 'svchost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 10.45703125} 
+
+{'pid': 30416, 'name': 'Dell.TechHub.Instrumentation.UserProcess.exe', 'username': None, 'vms': 34.76171875} 
+
+{'pid': 30552, 'name': 'Code.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 700.8984375} 
+
+{'pid': 30784, 'name': 'uihost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 13.12890625} 
+
+{'pid': 30872, 'name': 'WhatsApp.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 301.16796875} 
+
+{'pid': 30964, 'name': 'SearchIndexer.exe', 'username': None, 'vms': 30.09375} 
+
+{'pid': 31012, 'name': 'pet.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 1.3671875} 
+
+{'pid': 31160, 'name': 'browserhost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 7.09765625} 
+
+{'pid': 31348, 'name': 'backgroundTaskHost.exe', 'username': 'DESKTOP-I3IPA56\\Riya', 'vms': 18.7734375} 
+
+--------------------------------------------------------------------------------
